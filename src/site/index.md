@@ -1,34 +1,25 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.
+title: Stephen Fornal
+subtitle: Just a guy who makes websites and knows a lot of useless information
 layout: layouts/base.njk
 ---
 
 
-## This site is a starting point
+## Who Am I?
 
-From this point we should already have:
+I'm the Manager of  Web Developer for [Tarrant County College](https://www.tccd.edu), a public college in Fort Worth, TX, with over 50,000 students and six campuses. We're one of the largest colleges in the U.S., and we have a commitment to maintaining and accessible and high performance web site.
 
-- [Eleventy](https://11ty.io) with a skeleton site
-- A date format filter for Nunjucks
-- Sass pipeline
-- JS pipeline
-- JS [search index](/search.json) generator
-- Serverless (FaaS) development pipeline with Netlify Functions for Lambda
+I like to cook, read, drink beer, run, and play &amp; [host](http://www.pgtrivia.com) pub trivia.
 
-
-## Post pages
-
-The pages found in in the posts
+## Recent Posts
 
 <ul class="listing">
 {%- for page in collections.post -%}
   <li>
-    <a href="{{ page.url }}">{{ page.data.title }}</a> -
+    <a href="{{ page.url }}">{{ page.data.title }}</a> &mdash;
     <time datetime="{{ page.date }}">{{ page.date | dateDisplay }}</time>
   </li>
 {%- endfor -%}
 </ul>
 
-
-
+## Find Me on Social Media
