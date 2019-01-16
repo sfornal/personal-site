@@ -24,6 +24,6 @@ I like to cook, read, drink beer, run, and play &amp; [host](http://www.pgtrivia
 
 ## Find Me on Social Media
 
-* [Facebook]()
-* [Twitter]()
-* [Instagram]()
+* [Facebook](https://www.facebook.com/stephen.fornal)
+* [@mr_fornal on Twitter](https://twitter.com/mr_fornal)
+* [scfornal on Instagram](https://www.instagram.com/scfornal/)
